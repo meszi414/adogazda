@@ -3,24 +3,24 @@ import { Section } from '../layout/Section';
 
 const VerticalFeatures = () => (
   <Section
-    title="Your title here"
-    description="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus malesuada nisi tellus, non imperdiet nisi tempor at."
+    title="Üdvözlünk az AdóGazda honlapján!"
+    description="Több mint 20 év szakmai tapasztalattal, mérlegképes könyvelőként, adótanácsadóként és pénzügy-számvitel szakos közgazdászként segítem ügyfeleimet a biztos pénzügyi háttér megteremtésében. Fontos számunkra a precizitás és a naprakész tudás, hogy vállalkozásod számára a legjobb megoldásokat kínálhassuk."
   >
     <VerticalFeatureRow
-      title="Your title here"
+      title="Teljes körű könyvelés és adótanácsadás"
       description="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse bibendum, nunc non posuere consectetur, justo erat semper enim, non hendrerit dui odio id enim."
       image="/assets/images/feature.svg"
       imageAlt="First feature alt text"
     />
     <VerticalFeatureRow
-      title="Your title here"
+      title="Jogszabályi változások követése, adóoptimalizálás"
       description="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse bibendum, nunc non posuere consectetur, justo erat semper enim, non hendrerit dui odio id enim."
       image="/assets/images/feature2.svg"
       imageAlt="Second feature alt text"
       reverse
     />
     <VerticalFeatureRow
-      title="Your title here"
+      title="Céges átvilágítás a pénzügyi átláthatóságért"
       description="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse bibendum, nunc non posuere consectetur, justo erat semper enim, non hendrerit dui odio id enim."
       image="/assets/images/feature3.svg"
       imageAlt="Third feature alt text"

@@ -9,7 +9,7 @@ const Footer = () => (
   <Background color="bg-gray-100">
     <Section>
       <CenteredFooter
-        logo={<Logo />}
+        logo={<Logo xl src="/adogazda_logo.jpg" alt="" />}
         iconList={
           <>
             <Link href="/">

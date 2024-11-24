@@ -7,6 +7,7 @@ function App() {
     <BrowserRouter>
       <Routes>
       <Route path="/" element={<Base />} />
+      <Route path="/adogazda" element={<Base />} />
       </Routes>
     </BrowserRouter>
   );

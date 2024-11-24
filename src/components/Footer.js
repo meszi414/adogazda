@@ -7,7 +7,7 @@ const Footer = () => (
   <Background color="bg-gray-100">
     <Section>
       <CenteredFooter
-        logo={<Logo xl src="/adogazda_logo.jpg" alt="" />}
+        logo={<Logo xl src={`${process.env.PUBLIC_URL}/assets/images/adogazda_logo.jpg`} alt="" />}
         iconList={
           <>
             <a

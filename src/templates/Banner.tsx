@@ -7,11 +7,19 @@ import { Section } from '../layout/Section';
 const Banner = () => (
   <Section>
     <CTABanner
-      title="Lorem ipsum dolor sit amet consectetur adipisicing elit."
-      subtitle="Start your Free Trial."
+      title="Több mint 20 év tapasztalattal a biztonságos pénzügyekért"
+      subtitle="Kérjen ingyenes konzultációt!"
+      /* button={
+        <Link target="_blank" href="https://m.me/61568328006059" passHref>
+          <Button>Kezdjük a Messengerben</Button>
+        </Link>
+      } */
       button={
-        <Link href="https://creativedesignsguru.com/category/nextjs/">
-          <Button>Get Started</Button>
+        <Link
+          target="_blank"
+          href="https://mail.google.com/mail/?view=cm&fs=1&to=iroda@adogazda.hu&su=Érdeklődés&body="
+        >
+          <Button>Kezdjük</Button>
         </Link>
       }
     />

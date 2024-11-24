@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/adogazda/static/css/main.4a4174da.css",
-    "main.js": "/adogazda/static/js/main.768a350f.js",
+    "main.js": "/adogazda/static/js/main.e14e3fc0.js",
     "static/js/453.0b3bc420.chunk.js": "/adogazda/static/js/453.0b3bc420.chunk.js",
     "index.html": "/adogazda/index.html",
     "main.4a4174da.css.map": "/adogazda/static/css/main.4a4174da.css.map",
-    "main.768a350f.js.map": "/adogazda/static/js/main.768a350f.js.map",
+    "main.e14e3fc0.js.map": "/adogazda/static/js/main.e14e3fc0.js.map",
     "453.0b3bc420.chunk.js.map": "/adogazda/static/js/453.0b3bc420.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4a4174da.css",
-    "static/js/main.768a350f.js"
+    "static/js/main.e14e3fc0.js"
   ]
 }

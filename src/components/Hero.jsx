@@ -9,7 +9,7 @@ import { Logo } from './Logo';
 const Hero = () => (
   <Background color="bg-gray-100">
     <Section yPadding="py-6">
-    <NavbarTwoColumns logo={<Logo xl src={`${process.env.PUBLIC_URL}/assets/images/adogazda_logo.jpg`} alt="" />}>
+    <NavbarTwoColumns logo={<Logo xl src={`${import.meta.env.BASE_URL}assets/images/adogazda_logo.jpg`} alt="" />}>
 
         <li>
            <Link to="/">Katica</Link>🐞
